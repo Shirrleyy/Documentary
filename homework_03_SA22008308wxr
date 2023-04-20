@@ -1,4 +1,4 @@
-rm(list=ls())  #clran space
+rm(list=ls())  #clean space
 rm(species)
 
 install.packages("vegan")
